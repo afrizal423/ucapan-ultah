@@ -1,4 +1,4 @@
-# ucapan-ultah
+# ✨ Say Happy Birthday with Webpage
 
 ## Project setup
 ```
@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Customize
+Open customize.json and replace name/wish-message/image with your own.
+> ⚠️ **Important!** <br /> If you want to do more customizing, simply edit the HTML file. But in that case, leave the JSON fields empty since it overwrites the HTML.
